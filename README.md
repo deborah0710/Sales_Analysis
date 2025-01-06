@@ -32,8 +32,9 @@ Here are some interesting code/features I worked with:
 The analysis results are summarized as follows:
 Mountain-200 bike is the best-performing product in terms of sales and revenue.
 The top 10 customers where spread across North-America and Europe.
-The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
+The sales exceeded the sales budget increasingly as the years progressed since 2022. 
 
-Customer segments with high lifetime value (LTV) should be targeted for marketing efforts.
-Recommendations
+
+### Recommendations
 Based on the analysis, we recommend the following actions:
+
