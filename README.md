@@ -26,8 +26,19 @@ In the initial data preparation phase, we performed the following tasks:
 ### Data Analysis
 Here are some interesting code/features I worked with: 
 ``` sql
-
-
+SELECT [ProductKey]
+      ,[OrderDateKey]
+      ,[DueDateKey]
+      ,[ShipDateKey]
+      ,[CustomerKey]
+      ,[SalesOrderNumber]
+      ,[SalesAmount]
+  FROM [AdventureWorksDW2019].[dbo].[FactInternetSales]
+  WHERE 
+  LEFT ([OrderDateKey], 4) >= 2022
+  ORDER BY
+  OrderDateKey ASC
+```
 
 ### Results/Findings
 The analysis results are summarized as follows:
