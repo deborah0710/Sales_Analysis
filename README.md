@@ -27,7 +27,6 @@ In the initial data preparation phase, we performed the following tasks:
 Here are some interesting code/features I worked with: 
 
 
-
 ### Results/Findings
 The analysis results are summarized as follows:
 Mountain-200 bike is the best-performing product in terms of sales and revenue.
@@ -37,4 +36,6 @@ The sales exceeded the sales budget increasingly as the years progressed since 2
 
 ### Recommendations
 Based on the analysis, we recommend the following actions:
+Sales in cities Within the Asia continent can be improved on by increasing marketing tactics there.
+The top 10 customers can be encouraged to bring more customers by including comissions or vouchers. 
 
