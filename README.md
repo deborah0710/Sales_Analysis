@@ -3,6 +3,9 @@
 ### Project Overview/ Business Demand Overview
 This data analysis project aims to provide insights into the internet sales performance of a company since its inception in 2021. The business request requires analysing various aspects of the data, including customer demographics, make data- driven recommendation, and budgeting for the following year.
 
+![Sales overview dashboard](https://github.com/user-attachments/assets/81675864-88d7-4747-8ad0-7dcbee0d791d)
+
+
 ### Data Sources
 The SQL database used for this analysis contained dim_calender, dim_customer, dim_product and Fact_InternetSales among other tables. These tables were used for the purpose of this data analysis.
 
@@ -22,6 +25,12 @@ In the initial data preparation phase, we performed the following tasks:
 - Which products are top sellers?
 - Which customers buy the most?
 - What us the trend of sales over the years against sales budget?
+![customer details](https://github.com/user-attachments/assets/54f8135e-7168-4503-990c-02734e9f8907)
+
+![Product details](https://github.com/user-attachments/assets/67fcea7c-0b61-4eb6-af0b-60bd76be0c37)
+
+
+
 
 ### Data Analysis
 Here are some interesting code/features I worked with: 
